@@ -1,0 +1,15 @@
+S001;Ivanov;B001;Clean Code;Robert Martin;2008;464
+S002;Petrov;B002;Head First Java;Kathy Sierra;2005;688
+S003;Sidorov;B003;Algorithms;Robert Sedgewick;2011;955
+S001;Ivanov;B004;Design Patterns;Erich Gamma;1994;395
+S002;Petrov;B005;Spring in Action;Craig Walls;2018;520
+S003;Sidorov;B006;Code Complete;Steve McConnell;2004;960
+S001;Ivanov;B007;Effective Java;Joshua Bloch;2018;416
+S002;Petrov;B008;Thinking in Java;Bruce Eckel;2006;1150
+S003;Sidorov;B009;Introduction to Algorithms;Thomas Cormen;2009;1312
+S001;Ivanov;B010;Refactoring;Martin Fowler;1999;448
+S002;Petrov;B011;Clean Architecture;Robert Martin;2017;432
+S003;Sidorov;B012;The Pragmatic Programmer;Andrew Hunt;1999;352
+S001;Ivanov;B013;Java Concurrency in Practice;Brian Goetz;2006;432
+S002;Petrov;B014;Domain Driven Design;Eric Evans;2003;560
+S003;Sidorov;B015;Groovy in Action;Dierk Koenig;2015;900
