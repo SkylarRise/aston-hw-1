@@ -2,10 +2,9 @@ package homework_2;
 
 import lombok.*;
 
-import java.util.Objects;
-
 
 @Data
+@EqualsAndHashCode(of = {"code"})
 public class Book implements Comparable<Book> {
     private String code;
     private String name;
@@ -24,18 +23,6 @@ public class Book implements Comparable<Book> {
     @Override
     public int compareTo(Book book) {
         return Integer.compare(pages, book.getPages());
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj) return true;
-        if (!(obj instanceof Book book)) return false;
-        return Objects.equals(book.code, code);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(this.code);
     }
 
 }
